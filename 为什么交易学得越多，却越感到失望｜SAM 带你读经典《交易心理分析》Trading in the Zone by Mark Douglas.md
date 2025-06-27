@@ -1,4 +1,4 @@
-## 目录
+## 目录 #4
 - [亏损的不可避免性 [原片 @ 00:00](https://www.youtube.com/watch?v=Mt5z_eyVI_8&t=0s)](#亏损的不可避免性-content-0000)
 - [交易者心态的差异 [原片 @ 00:23](https://www.youtube.com/watch?v=Mt5z_eyVI_8&t=23s)](#交易者心态的差异-content-0023)
 - [市场无责任原则 [原片 @ 03:23](https://www.youtube.com/watch?v=Mt5z_eyVI_8&t=203s)](#市场无责任原则-content-0323)
