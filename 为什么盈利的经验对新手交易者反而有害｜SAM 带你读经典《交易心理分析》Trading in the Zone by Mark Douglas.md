@@ -1,4 +1,4 @@
-## 目录  
+## 目录  #5
 - [交易者的两极分化 [原片 @ 00:00](https://www.youtube.com/watch?v=1Lbuy0uz3UU&t=0s)](#交易者的两极分化-content-0000)  
 - [盈利带来的心理陷阱 [原片 @ 00:56](https://www.youtube.com/watch?v=1Lbuy0uz3UU&t=56s)](#盈利带来的心理陷阱-content-0056)  
 - [三类交易者分析 [原片 @ 02:04](https://www.youtube.com/watch?v=1Lbuy0uz3UU&t=124s)](#三类交易者分析-content-0204)  
