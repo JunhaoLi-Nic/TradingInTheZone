@@ -103,4 +103,4 @@
     -   **反人性本质**：成功交易需要克服人性弱点，建立概率化思维。
     -   **对手盘逻辑**：盈利源于执行普通交易者回避的理性操作。
     -   **知行鸿沟**：心理建设是长期盈利的分水岭。
--   **链接**：[终章，交易者之路｜SAM 带你读经典《交易心理分析》Trading in the Zone by Mark Douglas.md](https://github.com/your-repo/TradingInTheZone/blob/main/%E7%BB%88%E7%AB%A0%EF%BC%8C%E4%BA%A4%E6%98%93%E8%80%85%E4%B9%8B%E8%B7%AF%EF%BD%9CSAM%20%E5%B8%A6%E4%BD%A0%E8%AF%BB%E7%BB%8F%E5%85%B8%E3%80%8A%E4%BA%A4%E6%98%93%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90%E3%80%8BTrading%20in%20the%20Zone%20by%20Mark%20Douglas.md)
+-   **链接**：[10. 终章：交易者之路.md](https://github.com/your-repo/TradingInTheZone/blob/main/10.%20%E7%BB%88%E7%AB%A0%EF%BC%9A%E4%BA%A4%E6%98%93%E8%80%85%E4%B9%8B%E8%B7%AF.md)
